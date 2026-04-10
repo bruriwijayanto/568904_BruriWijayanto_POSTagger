@@ -23,7 +23,7 @@ Letakkan file `Data_POS-Tag-ID.tsv` pada direktori yang sama dengan `viterbi_pos
 python3 viterbi_pos.py
 ```
 
-### 3. Output yang diharapkan
+### 3. Output 
 
 Program akan menampilkan:
 
